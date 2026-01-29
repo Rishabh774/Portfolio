@@ -150,7 +150,7 @@ export const SkillsInfo = [
       image: portfolio,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github: "https://github.com/Rishabh774/Personal-Portfolio-Rishabh-Sahu-",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      webapp: "https://rishabhportfolio-dusky.vercel.app/",
     },
    
     {
